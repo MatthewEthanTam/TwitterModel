@@ -186,7 +186,6 @@ pymc-base=4.2.0=pyhd8ed1ab_0
 pyopenssl=22.0.0=pyhd3eb1b0_0
 pyparsing=3.0.9=py310h06a4308_0
 pyqt=5.15.7=py310h6a678d5_1
-pyqt5-sip=12.11.0=pypi_0
 pysocks=1.7.1=py310h06a4308_0
 python=3.10.4=h12debd9_0
 python-dateutil=2.8.2=pyhd3eb1b0_0
